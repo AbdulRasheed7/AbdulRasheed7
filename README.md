@@ -80,6 +80,17 @@ Solved a structured SQL challenge across **7 relational tables** using multi-tab
 
 ---
 
+### 📊 [Retail Sales Analysis — Excel Portfolio Project](https://github.com/AbdulRasheed7/excel-sales-analysis)
+> **Microsoft Excel · Pivot Tables · SUMIF · INDEX MATCH · COUNTIFS · Slicers**
+
+End-to-end analysis of a 9,994-row US retail Superstore dataset answering 17 structured
+business questions across sales trends, regional insights, and revenue drivers. Used
+advanced Excel formulas (FILTER, LARGE, COUNTIFS), Pivot Charts with interactive
+slicers, INDEX MATCH for cross-table lookups, and conditional formatting to highlight
+above-average orders.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
