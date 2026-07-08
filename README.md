@@ -91,6 +91,17 @@ above-average orders.
 
 ---
 
+### 📈 [Momentum Investing on PSX — Final Year Project](https://github.com/AbdulRasheed7/psx-momentum-investing-fyp)
+> **Excel · Quantitative Finance · Risk Analysis · Portfolio Construction**
+
+Evaluated rebalancing frequency for momentum strategies on 8 PSX 
+stocks over 10 years (2015–2024). Tested 9 scenarios with realistic 
+transaction costs and Pakistan's CGT structure. All 9 outperformed 
+KSE-100 — Top 3 Annual identified as optimal (Sharpe: 0.555, Max 
+Drawdown: -42.3%). Group FYP, IoBM.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
